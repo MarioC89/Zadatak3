@@ -8,5 +8,5 @@ Sami odaberite jedan element na kojem ćete pokazati inline stilove. Na nekom dr
 
 Button bi bio dobar primjer na kojemu možete pokazati korištenje Styled Components package-a (https://styled-components.com/).
 
-List.js komponentu možete iskoristiti kako biste prikazali korištenje CSS modula.
+List.js komponentu možete iskoristiti kako biste prikazali korištenje CSS modula. (https://github.com/css-modules/css-modules)
 
