@@ -10,3 +10,4 @@ Button bi bio dobar primjer na kojemu možete pokazati korištenje Styled Compon
 
 List.js komponentu možete iskoristiti kako biste prikazali korištenje CSS modula. (https://github.com/css-modules/css-modules)
 
+Nemojte zaboraviti npm install kada klonirate projekt :)
