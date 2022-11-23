@@ -7,7 +7,14 @@ function App() {
 
   return (
     <main>
-      <section className="">
+      <section 
+        className=""
+        style={{
+          width: `90vw`,
+          margin: `0 auto`,
+          maxWidth: `var(--max-width)`,
+        }}
+        >
         <h3 className="">{people.length} birthdays today</h3>
         <List people={people} />
         <button className="" onClick={() => setPeople([])}>

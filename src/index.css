@@ -83,11 +83,11 @@ h4 {
 /*  global classes */
 
 /* section */
-.section {
+/*.section {
   width: 90vw;
   margin: 0 auto;
   max-width: var(--max-width);
-}
+}*/
 
 main {
   min-height: 100vh;
